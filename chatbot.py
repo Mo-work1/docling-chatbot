@@ -2,7 +2,7 @@ import json
 import openai
 
 # Set your OpenAI API key here
-openai.api_key = "sk-..."  # ← replace this with your actual key
+openai.api_key = "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"  # ← replace this with your actual key
 
 # Load the Docling-style JSON data
 with open("docling_data.json", "r") as f:
