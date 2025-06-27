@@ -1,0 +1,27 @@
+[
+  {
+    "id": "section_1",
+    "text": "Ethics must be embedded in the design and development process from the very beginning of AI creation. Everyday Ethics for AI is meant to guide team discussions and daily practices.",
+    "gloss": "ethics in AI design"
+  },
+  {
+    "id": "section_2",
+    "text": "IBM embraces five foundational pillars of trustworthy AI: Explainability, Fairness, Robustness, Transparency, and Privacy. These pillars underpin the development, deployment, and use of AI systems.",
+    "gloss": "IBM five AI pillars"
+  },
+  {
+    "id": "section_3",
+    "text": "A trustworthy, human-centric AI system must be designed and developed in a manner that is aligned with the values and principles of the society or community it affects.",
+    "gloss": "human-centric AI"
+  },
+  {
+    "id": "section_4",
+    "text": "The five practices of everyday ethics are: consider outcomes, align with norms and values, minimize bias and improve inclusivity, ensure explainability, and protect user data.",
+    "gloss": "five practices summary"
+  },
+  {
+    "id": "section_5",
+    "text": "Bias can never be fully eliminated. Responsible teams must minimize algorithmic bias through ongoing research and representative data collection.",
+    "gloss": "AI bias mitigation"
+  }
+]
